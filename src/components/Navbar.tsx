@@ -3,9 +3,9 @@ import { ThemeToggle } from './mode-toggle'
 
 const Navbar = () => {
   return (
-   <nav className='max-w-7xl mx-auto'>
+   <nav className=' border-b '>
 
-    <div className=' flex  items-center justify-between   h-16 border-b '>
+    <div className=' flex  items-center justify-between  max-w-6xl mx-auto z-50 h-16 px-4'>
 
         <div className=' text-bold font-bold'>
         <h1>FlashOp</h1>
